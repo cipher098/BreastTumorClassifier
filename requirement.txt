@@ -8,6 +8,6 @@ sklearn>=0.19.1
 matplotlib>=2.2.2
 conda>=4.5.2
 jupyter>=1.0.0
-kmodes >= 0.9
 ipython >= 6.4.0
 ipython-genutils >= 0.2.0
+graphviz >= 0.9
